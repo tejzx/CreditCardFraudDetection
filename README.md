@@ -61,7 +61,3 @@ jupyter notebook CreditCard-FraudDetection.ipynb
 
 ## 🤝 **Contributing**
 Want to contribute? Feel free to fork the repo and submit pull requests!
-
-## 📜 **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
